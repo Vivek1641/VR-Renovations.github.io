@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Handyman Services</title>
+	<title><img src="/Users/Vivek Mody/Downloads/VRenovationsLogo.png" alt="VRenovations Logo"></title>
 	<style>
 		body {
 			font-family: Arial, sans-serif;
